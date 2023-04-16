@@ -21,4 +21,3 @@ Dentro del primer apartado, la tabla e input de la izquierda, se puede visualiza
 	Para agregar ingredientes nuevos al inventario, sólo hay que escribir su nombre en el único input de texto en el apartado correspondiente, si se agregan unidades al almacén, se deben agregar en la entrada numérica, en su defecto, se agregará con 0 unidades.
 	1.1.2 RESURTIR EL ALMACEN
 	Para indicar que se agregan unidades de un ingrediente ya existente, hay que escribir el nombre del ingrediente EXACTAMENTE IGUAL a como aparece en la tabla, así como indicar el número de unidades a agregar.
-
